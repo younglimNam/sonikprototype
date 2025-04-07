@@ -1,7 +1,3 @@
-import Image from "next/image";
-import { Roboto, Noto_Sans_KR } from 'next/font/google'
-import localFont from 'next/font/local'
-
 export default function Home() {
   return (
     <main className="min-h-screen">
